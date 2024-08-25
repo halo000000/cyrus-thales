@@ -4,6 +4,10 @@
   "publisher": "Halwest",
   "description": "The cyrus-Thales them for vs code it is a cool vs code them 😉",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halo000000/cyrus-thales"
+  },
   "keywords": [
     "them",
     "brown",
@@ -20,7 +24,7 @@
     "kurdstan",
     "colortheme",
     "color",
-    "clour"
+    "colour"
   ],
   "engines": {
     "vscode": "^1.92.0"
@@ -36,5 +40,6 @@
         "path": "./themes/Cyrus-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "imges/logo.png"
 }

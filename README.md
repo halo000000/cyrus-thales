@@ -1,11 +1,12 @@
-# Cyrus-Thales VS Code Theme
+
+# Cyrus-Thales VS Code Theme 
 
 Cyrus-Thales is a dark, brownish color theme for Visual Studio Code designed to enhance your coding experience with a unique and elegant look. Whether you’re coding late into the night or just prefer a warm, subdued aesthetic, Cyrus-Thales is here to provide a comfortable and visually appealing environment.
 
-![Cyrus-Thales Screenshot](imges/logo.png)
 ![Cyrus-Thales Screenshot](imges/1.png)
 ![Cyrus-Thales Screenshot](imges/4.png)
 ![Cyrus-Thales Screenshot](imges/3.png)
+
 
 ## Features
 
@@ -51,7 +52,7 @@ Refer to the [Visual Studio Code documentation](https://code.visualstudio.com/do
 
 ## Contribution
 
-Contributions are welcome! If you have suggestions or want to contribute to the Cyrus-Thales theme, please open an issue or a pull request on the [GitHub repository](https://github.com/yourusername/cyrus-thales).
+Contributions are welcome! If you have suggestions or want to contribute to the Cyrus-Thales theme, please open an issue or a pull request on the [GitHub repository](https://github.com/halo000000/cyrus-thales).
 
 ## License
 
@@ -59,10 +60,9 @@ This theme is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-We’d love to hear from you! Share your feedback or report issues on our [GitHub page](https://github.com/yourusername/cyrus-thales/issues).
+We’d love to hear from you! Share your feedback or report issues on our [GitHub page](https://github.com/halo000000/cyrus-thales/issues).
 
-Happy coding!
+Happy coding!😉
 
 ---
-
-Feel free to adjust the links and other details according to your actual setup and preferences.
+<img src="imges/logo.png" alt="logo" width="400" height="400">
