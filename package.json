@@ -1,0 +1,40 @@
+{
+  "name": "cyrus-thales",
+  "displayName": "Cyrus-Thales",
+  "publisher": "Halwest",
+  "description": "The cyrus-Thales them for vs code it is a cool vs code them 😉",
+  "version": "0.0.1",
+  "keywords": [
+    "them",
+    "brown",
+    "moudy",
+    "moud",
+    "dirt",
+    "code",
+    "Youtuber",
+    "youtube",
+    "accitont",
+    "accident",
+    "kurd",
+    "kurdi",
+    "kurdstan",
+    "colortheme",
+    "color",
+    "clour"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyrus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyrus-color-theme.json"
+      }
+    ]
+  }
+}
